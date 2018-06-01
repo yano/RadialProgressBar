@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\yodaka\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_RadialProgressBar.579100182.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProjects5\RadialProgressBar" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Plugins" t="Include">
+          <e p="AdvancedInspector" t="Include">
+            <e p="Attributes" t="Include">
+              <e p="AdvancedInspector.cs" t="Include" />
+              <e p="Angle.cs" t="Include" />
+              <e p="Background.cs" t="Include" />
+              <e p="Bypass.cs" t="Include" />
+              <e p="Collection.cs" t="Include" />
+              <e p="Constructor.cs" t="Include" />
+              <e p="CreateDerived.cs" t="Include" />
+              <e p="Descriptor.cs" t="Include" />
+              <e p="DisplayAsParent.cs" t="Include" />
+              <e p="DontAllowSceneObject.cs" t="Include" />
+              <e p="Enum.cs" t="Include" />
+              <e p="Expandable.cs" t="Include" />
+              <e p="FieldAttribute.cs" t="Include" />
+              <e p="FieldEditor.cs" t="Include" />
+              <e p="Group.cs" t="Include" />
+              <e p="Help.cs" t="Include" />
+              <e p="IgnoreBase.cs" t="Include" />
+              <e p="Inspect.cs" t="Include" />
+              <e p="Menu.cs" t="Include" />
+              <e p="Method.cs" t="Include" />
+              <e p="NoPicker.cs" t="Include" />
+              <e p="RangeValue.cs" t="Include" />
+              <e p="ReadOnly.cs" t="Include" />
+              <e p="Restrict.cs" t="Include" />
+              <e p="RuntimeResolve.cs" t="Include" />
+              <e p="Spacing.cs" t="Include" />
+              <e p="Style.cs" t="Include" />
+              <e p="Tab.cs" t="Include" />
+              <e p="TextField.cs" t="Include" />
+              <e p="Title.cs" t="Include" />
+              <e p="Toolbar.cs" t="Include" />
+            </e>
+            <e p="Core" t="Include">
+              <e p="ActionBinding.cs" t="Include" />
+              <e p="CollectionDisplay.cs" t="Include" />
+              <e p="ComponentMonoBehaviour.cs" t="Include" />
+              <e p="CoroutineMonoBehaviour.cs" t="Include" />
+              <e p="Description.cs" t="Include" />
+              <e p="EnumDisplay.cs" t="Include" />
+              <e p="HelpItem.cs" t="Include" />
+              <e p="IconPreviewSize.cs" t="Include" />
+              <e p="InspectorLevel.cs" t="Include" />
+              <e p="MethodDisplay.cs" t="Include" />
+              <e p="RangeFloat.cs" t="Include" />
+              <e p="RangeInt.cs" t="Include" />
+              <e p="RestrictDisplay.cs" t="Include" />
+              <e p="ScriptableComponent.cs" t="Include" />
+              <e p="StateMachineBehaviour.cs" t="Include" />
+              <e p="TextFieldType.cs" t="Include" />
+              <e p="UDictionary.cs" t="Include" />
+            </e>
+            <e p="Event" t="Include">
+              <e p="EventHandlers.cs" t="Include" />
+            </e>
+            <e p="Interface" t="Include">
+              <e p="ICopiable.cs" t="Include" />
+              <e p="ICopy.cs" t="Include" />
+              <e p="IDataChanged.cs" t="Include" />
+              <e p="IDescriptor.cs" t="Include" />
+              <e p="IExpandable.cs" t="Include" />
+              <e p="IHelp.cs" t="Include" />
+              <e p="IInspect.cs" t="Include" />
+              <e p="IInspectorRunning.cs" t="Include" />
+              <e p="IListAttribute.cs" t="Include" />
+              <e p="IMenu.cs" t="Include" />
+              <e p="IPicker.cs" t="Include" />
+              <e p="IPreview.cs" t="Include" />
+              <e p="IReadOnly.cs" t="Include" />
+              <e p="IRestrict.cs" t="Include" />
+              <e p="IRuntimeAttribute.cs" t="Include" />
+              <e p="IRuntimeType.cs" t="Include" />
+              <e p="ISpacing.cs" t="Include" />
+              <e p="IVisibility.cs" t="Include" />
+            </e>
+            <e p="Utility" t="Include">
+              <e p="TypeUtility.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Editor" t="Include">
+            <e p="AdvancedInspector" t="Include">
+              <e p="AdvancedInspector" t="Include">
+                <e p="AdvancedInspectorControl.cs" t="Include" />
+                <e p="CacheValue.cs" t="Include" />
+                <e p="FieldEditor.cs" t="Include" />
+                <e p="InspectorCoroutine.cs" t="Include" />
+                <e p="InspectorEditor.cs" t="Include" />
+                <e p="InspectorEditors" t="Include">
+                  <e p="BehaviourEditor.cs" t="Include" />
+                  <e p="ExternalEditor.cs" t="Include" />
+                  <e p="ScriptableEditor.cs" t="Include" />
+                </e>
+                <e p="InspectorField.cs" t="Include" />
+                <e p="InspectorPersist.cs" t="Include" />
+                <e p="InspectorPreferences.cs" t="Include" />
+                <e p="InspectorPreview.cs" t="Include" />
+                <e p="InspectorReference.cs" t="Include" />
+                <e p="InspectorStyle.cs" t="Include" />
+                <e p="InspectorWrapper.cs" t="Include" />
+                <e p="Watch" t="Include">
+                  <e p="WatchWindow.cs" t="Include" />
+                </e>
+              </e>
+              <e p="Clipboard" t="Include">
+                <e p="Clipboard.cs" t="Include" />
+              </e>
+              <e p="Control" t="Include">
+                <e p="IControl.cs" t="Include" />
+                <e p="Separator.cs" t="Include" />
+              </e>
+              <e p="DragAndDrop" t="Include">
+                <e p="DragAndDrop.cs" t="Include" />
+              </e>
+              <e p="Examples" t="Include">
+                <e p="ExternalInspectorWindow.cs" t="Include" />
+              </e>
+              <e p="Extensions" t="Include">
+                <e p="EnumExtension.cs" t="Include" />
+                <e p="TypeExtension.cs" t="Include" />
+              </e>
+              <e p="Extra" t="Include">
+                <e p="SelectionTracker.cs" t="Include" />
+              </e>
+              <e p="ExtraGUI" t="Include">
+                <e p="ExtraGUI.cs" t="Include" />
+                <e p="ExtraGUILayout.cs" t="Include" />
+              </e>
+              <e p="FieldEditors" t="Include">
+                <e p="AnimationCurveEditor.cs" t="Include" />
+                <e p="BooleanEditor.cs" t="Include" />
+                <e p="BoundsEditor.cs" t="Include" />
+                <e p="CharEditor.cs" t="Include" />
+                <e p="ColorEditor.cs" t="Include" />
+                <e p="DateTimeEditor.cs" t="Include" />
+                <e p="EnumEditor.cs" t="Include" />
+                <e p="FloatEditor.cs" t="Include" />
+                <e p="GradientEditor.cs" t="Include" />
+                <e p="GuidEditor.cs" t="Include" />
+                <e p="IntegerEditor.cs" t="Include" />
+                <e p="LayerMaskEditor.cs" t="Include" />
+                <e p="MonoEditor.cs" t="Include" />
+                <e p="ObjectEditor.cs" t="Include" />
+                <e p="QuaternionEditor.cs" t="Include" />
+                <e p="RangeEditor.cs" t="Include" />
+                <e p="RectEditor.cs" t="Include" />
+                <e p="ReflectionProbeBlendInfoEditor.cs" t="Include" />
+                <e p="RigidbodyConstraints2DEditor.cs" t="Include" />
+                <e p="RigidbodyConstraintsEditor.cs" t="Include" />
+                <e p="StringEditor.cs" t="Include" />
+                <e p="TimeSpanEditor.cs" t="Include" />
+                <e p="VectorEditor.cs" t="Include" />
+                <e p="VectorIntEditor.cs" t="Include" />
+              </e>
+              <e p="Helper.cs" t="Include" />
+              <e p="Modal" t="Include">
+                <e p="DateTime" t="Include">
+                  <e p="DateTimeDialog.cs" t="Include" />
+                </e>
+                <e p="IModal.cs" t="Include" />
+                <e p="ModalWindow.cs" t="Include" />
+                <e p="Toolbox" t="Include">
+                  <e p="Toolbox.cs" t="Include" />
+                </e>
+                <e p="WindowResult.cs" t="Include" />
+              </e>
+              <e p="TreeView" t="Include">
+                <e p="TreeView.cs" t="Include" />
+                <e p="TreeViewItem.cs" t="Include" />
+              </e>
+              <e p="UnityTypes" t="Include">
+                <e p="AIStateMachineBehaviourEditor.cs" t="Include" />
+                <e p="AnchoredJoint2DEditor.cs" t="Include" />
+                <e p="AnimationEditor.cs" t="Include" />
+                <e p="AnimatorEditor.cs" t="Include" />
+                <e p="BoxColliderEditor.cs" t="Include" />
+                <e p="CameraEditor.cs" t="Include" />
+                <e p="CapsuleColliderEditor.cs" t="Include" />
+                <e p="CharacterControllerEditor.cs" t="Include" />
+                <e p="CharacterJointEditor.cs" t="Include" />
+                <e p="ClothEditor.cs" t="Include" />
+                <e p="ClothRendererEditor.cs" t="Include" />
+                <e p="ColliderEditor.cs" t="Include" />
+                <e p="ConstantForceEditor.cs" t="Include" />
+                <e p="FixedJointEditor.cs" t="Include" />
+                <e p="HingeJoint2DEditor.cs" t="Include" />
+                <e p="HingeJointEditor.cs" t="Include" />
+                <e p="Joint2DEditor.cs" t="Include" />
+                <e p="JointEditor.cs" t="Include" />
+                <e p="LightEditor.cs" t="Include" />
+                <e p="MeshColliderEditor.cs" t="Include" />
+                <e p="MeshEditor.cs" t="Include" />
+                <e p="MeshFilterEditor.cs" t="Include" />
+                <e p="MeshRendererEditor.cs" t="Include" />
+                <e p="RendererEditor.cs" t="Include" />
+                <e p="Rigidbody2DEditor.cs" t="Include" />
+                <e p="RigidbodyEditor.cs" t="Include" />
+                <e p="SkinnedMeshRendererEditor.cs" t="Include" />
+                <e p="SphereColliderEditor.cs" t="Include" />
+                <e p="SpringJoint2DEditor.cs" t="Include" />
+                <e p="SpringJointEditor.cs" t="Include" />
+                <e p="SpriteRendererEditor.cs" t="Include" />
+                <e p="SubTypes" t="Include">
+                  <e p="JointAngleLimits2D.cs" t="Include" />
+                  <e p="JointDriveEditor.cs" t="Include" />
+                  <e p="JointLimitsEditor.cs" t="Include" />
+                  <e p="JointMotor2DEditor.cs" t="Include" />
+                  <e p="JointMotorEditor.cs" t="Include" />
+                  <e p="JointSpringEditor.cs" t="Include" />
+                  <e p="SoftJointLimitEditor.cs" t="Include" />
+                  <e p="SoftJointLimitSpringEditor.cs" t="Include" />
+                  <e p="WheelFrictionCurveEditor.cs" t="Include" />
+                </e>
+                <e p="TerrainColliderEditor.cs" t="Include" />
+                <e p="TextMeshEditor.cs" t="Include" />
+                <e p="TransformEditor.cs" t="Include" />
+                <e p="WheelColliderEditor.cs" t="Include" />
+              </e>
+            </e>
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RadialProgressBar" t="Include">
+          <e p="RadialProgressBarAD.cs" t="Include" />
+          <e p="RadialProgressBarTimer.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="RadialProgressBar.sln" t="IncludeFlat" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
